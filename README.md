@@ -1,9 +1,9 @@
 # linux-fundamentals (security-oriented)
 This repository contains my **conceptual understanding of linux** from a **Cybersecurity perspective**  (using kali linux as base)
 The focus is on:
-- how linux works internally
-- why these concepts matter in security
-- how attackers and defenders interact with the system
+- How linux works internally
+- Why these concepts matter in security
+- How attackers and defenders interact with the system
 
 ## Why this repository? 
  - To build a deep understanding of linux internals and system behavior
@@ -16,7 +16,7 @@ The focus is on:
    - diagrams (where required)
    - real world security context
   This repository intentionally avoids lab walkthroughs.
-  labs like TRYHACKME & HACKTHEBOX are practiced on separate repositories.
+  Labs like TRYHACKME & HACKTHEBOX are practiced on separate repositories.
 
  ## TOPICS COVERED:
 ### Core linux:
@@ -53,19 +53,19 @@ The focus is on:
 
   ## NOTE:
    This repository is a part of my larger learning path in cybersecurity:
-   -Linux fundamentals (this repo)
-   -Netwroking basics.
-   -cybersecurity basics.
-   -Popular types of security attacks.
-   -web security(fundamentals).
-   -cloud security(fundamentals).
-   -Linux labs
-   -TRYHACKME labs
-   -HACKTHEBOX labs
-   -PORTSWIGGER labs
-   -languages(python & C)
-   -python labs
+   - Linux fundamentals (this repo)
+   - Netwroking basics.
+   - Cybersecurity basics.
+   - Popular types of security attacks.
+   - Web security(fundamentals).
+   - Cloud security(fundamentals).
+   - Linux labs
+   - TRYHACKME labs
+   - HACKTHEBOX labs
+   - PORTSWIGGER labs
+   - languages(python & C)
+   - python labs
    
    This is my learning journey with my own understanding of topics mentioned above.
-   content will be updated as soon as i learn it.
-   for educational purposes.
+   Content will be updated as soon as i learn it.
+   For educational purposes.
