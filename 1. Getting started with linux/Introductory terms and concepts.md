@@ -77,9 +77,13 @@ The command -- *file /usr/bin/msfconsole*, tells you:
 1) Script or binary?
 2) Text or machine code?
 3) Architecture?
-**Security point of view:**
+
+      
+   **Security point of view:**
 1) Spot fake binaries
 2) Detect suspicious scripts disguised as commands
+
+
 
 
 
